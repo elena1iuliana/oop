@@ -1,2 +1,2 @@
 # oop
-Object-oriented programming projects
+Object-oriented programming project
